@@ -76,19 +76,8 @@ The core game state is managed using the following variables in `script.js`:
 * **Single-Player AI:** Implement a simple Minimax algorithm to allow the user to play against the computer.
 * **Player Selection:** Allow the starting player (X or O) to be chosen randomly or by user input.
 * **Customization:** Add options to choose different themes or colors for X and O.
-```
 
-
-
-
-
-
-
-
-
-
-
-
+<img width="825" height="791" alt="image" src="https://github.com/user-attachments/assets/5096d30e-4e4e-473a-8534-32f08195c2bc" />
 
 
 
